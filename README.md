@@ -13,9 +13,13 @@ A Python-based malware detection and analysis application designed to identify k
 
 ## Installation
 git clone https://github.com/yourusername/keyloggers
+
 cd keyloggers
+
 pip install -r requirements.txt
+
 python keyloggers.py
 
 ## Disclaimer
 This tool is for educational and defensive purposes only. Use only on systems you own or have explicit permission to analyze.
+
