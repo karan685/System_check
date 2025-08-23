@@ -1,27 +1,21 @@
 # Keyloggers - Malware Detection Tool
 
-![Icon](icon.jpg)
+A Python-based malware detection and analysis application designed to identify keyloggers and suspicious processes using heuristic and behavioral analysis techniques.
 
-Keyloggers is a GUI application for detecting and analyzing potential keyloggers and suspicious processes.  
-**For educational and defensive use only.**
-
+🚀 Features
 ## Features
-- Heuristic process scanning for keyloggers
-- Flags suspicious behavior and creates reports
-- Modern PyQt5 interface, light/dark theme
-- Export detected threats to CSV or HTML
+🔍 Heuristic scanning for keyloggers and suspicious executables
+📊 Threat scoring system with severity levels (Low / Medium / High / Critical)
+🌐 Network analysis for active connections and suspicious ports
+⚡ Startup auditing to detect persistence mechanisms
+🖥️ Modern GUI (PyQt5) with light/dark themes
+📑 Report generation (CSV, HTML) for analysis and documentation
 
 ## Installation
-1. `pip install -r requirements.txt`
-2. `python keyloggers.py`
+git clone https://github.com/yourusername/keyloggers
+cd keyloggers
+pip install -r requirements.txt
+python keyloggers.py
 
 ## Disclaimer
-This tool is for responsible, lawful, and educational use only. Do not use for unauthorized monitoring.  
-See LICENSE for details.
-
-## License
-This software is provided for use solely on devices or systems for which you have explicit authorization or ownership.
-The author assumes no liability for any misuse, unauthorized use, or unlawful activities conducted through this software. Users are fully responsible for ensuring their use complies with all applicable laws and regulations.
-
-Your contributions to improve and enhance this project are highly encouraged and greatly appreciated.
-If you find this software useful, please consider supporting its development by submitting improvements or feature enhancements via pull requests.
+This tool is for educational and defensive purposes only. Use only on systems you own or have explicit permission to analyze.
