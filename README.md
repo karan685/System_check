@@ -1,4 +1,4 @@
-# Keyloggers - Malware Detection Tool
+# System check
 
 A Python-based malware detection and analysis application designed to identify keyloggers and suspicious processes using heuristic and behavioral analysis techniques.
 
@@ -20,15 +20,16 @@ A Python-based malware detection and analysis application designed to identify k
 ## Installation
 git clone https://github.com/yourusername/keyloggers
 
-cd keyloggers
+cd System_check
 
 pip install -r requirements.txt
 
-python keyloggers.py
+python System_check.py
 
 
 ## Disclaimer
 This tool is for educational and defensive purposes only. Use only on systems you own or have explicit permission to analyze.
+
 
 
 
