@@ -22,7 +22,7 @@ from PyQt5.QtCore import Qt, QTimer
 # Config / App constants
 # ------------------------------
 
-APP_NAME = 'System check'
+APP_NAME = 'System_check'
 ICON_FILE = 'icon.png'
 try:
     CONFIG_FILE = str(Path(__file__).parent.joinpath('config.json'))
@@ -710,4 +710,5 @@ def main():
 
 if __name__ == '__main__':
     main()
+
 
