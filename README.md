@@ -18,7 +18,7 @@ A Python-based malware detection and analysis application designed to identify k
 
 
 ## Installation
-git clone https://github.com/yourusername/keyloggers
+git clone https://github.com/yourusername/System_check
 
 cd System_check
 
@@ -29,6 +29,7 @@ python System_check.py
 
 ## Disclaimer
 This tool is for educational and defensive purposes only. Use only on systems you own or have explicit permission to analyze.
+
 
 
 
